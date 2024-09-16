@@ -39,3 +39,11 @@ Android developer showcasing innovative projects. Explore my apps below!
   https://play.google.com/store/apps/details?id=theme.omniful.app.tulsi
   https://play.google.com/store/apps/details?id=theme.omniful.hachiko
   Description: Creating a white-label e-commerce app using the latest MultiModule Architecture with Jetpack Compose. Features a server-driven UI that can be modified with JSON.
+
+9. Styleyn (Client App via Omniful App Builder)
+   https://play.google.com/store/apps/details?id=co.shopney.styleyn&hl=en_IN
+   Description: Styleyn, a client utilizing the Omniful App Builder, successfully launched their e-commerce app, achieving 1,000+ downloads on the Play Store.
+
+10. Omniful POS App
+   Description: Created the Omniful POS App, a point-of-sale solution for retail businesses, available on tablets and Android devices.
+
