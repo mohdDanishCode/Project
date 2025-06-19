@@ -45,5 +45,6 @@ Android developer showcasing innovative projects. Explore my apps below!
    Description: Styleyn, a client utilizing the Omniful App Builder, successfully launched their e-commerce app, achieving 1,000+ downloads on the Play Store.
 
 10. Omniful POS App
+   https://apps.omniful.com/point-of-sale-app/live
    Description: Created the Omniful POS App, a point-of-sale solution for retail businesses, available on tablets and Android devices.
 
