@@ -44,7 +44,11 @@ Android developer showcasing innovative projects. Explore my apps below!
    https://play.google.com/store/apps/details?id=co.shopney.styleyn&hl=en_IN
    Description: Styleyn, a client utilizing the Omniful App Builder, successfully launched their e-commerce app, achieving 1,000+ downloads on the Play Store.
 
-10. Omniful POS App
+10. The Fresh Market Dubai (Client App via Omniful App Builder)
+   https://play.google.com/store/apps/details?id=ae.freshmarket.android
+   Description: Fresh Market, a client utilizing the Omniful App Builder, successfully launched their e-commerce app, achieving 500+ downloads on the Play Store.
+
+11. Omniful POS App
    https://apps.omniful.com/point-of-sale-app/live
    Description: Created the Omniful POS App, a point-of-sale solution for retail businesses, available on tablets and Android devices.
 
